@@ -1,6 +1,7 @@
 {
   "name": "landing-page-without-prices",
   "private": true,
+  "homepage": "./",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
