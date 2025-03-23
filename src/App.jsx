@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import { BrowserRouter, createBrowserRouter, Route, RouterProvider, Routes } from "react-router-dom";
 // import './App.css'
 import './landing page.css'
 import './queries.css'
