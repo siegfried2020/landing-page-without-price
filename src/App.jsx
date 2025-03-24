@@ -97,13 +97,6 @@ function App() {
 
       {/* Hand Wash  */}
 
-      <header class="header-container hand-wash">
-          
-        <h1>Hand wash (مانجو و كريز) to sell </h1>
-        
-    
-      </header>
-
       
 
 
